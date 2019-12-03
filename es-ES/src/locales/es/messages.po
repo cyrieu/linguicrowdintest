@@ -8,7 +8,7 @@ msgstr ""
 "Language: es\n"
 "Project-Id-Version: cratestme\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2019-12-03 19:27\n"
+"PO-Revision-Date: 2019-12-03 19:41\n"
 "Last-Translator: thesabedap\n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -18,9 +18,9 @@ msgstr ""
 
 #: src/App.tsx:15
 msgid "Edit <0>src/App.tsx</0> and save to reload."
-msgstr ""
+msgstr "Here is a new translation for spanish"
 
 #: src/App.tsx:12
 msgid "Message Inbox"
-msgstr ""
+msgstr "Messago inboxo spanish"
 
