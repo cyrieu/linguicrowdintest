@@ -1,0 +1,18 @@
+{
+  "Message Inbox": {
+    "origin": [
+      [
+        "src/App.tsx",
+        12
+      ]
+    ]
+  },
+  "Edit <0>src/App.tsx</0> and save to reload.": {
+    "origin": [
+      [
+        "src/App.tsx",
+        15
+      ]
+    ]
+  }
+}
